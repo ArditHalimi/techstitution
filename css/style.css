@@ -1,4 +1,4 @@
-.main{
+/*.main{
     color: brown;
     text-align: center;
 }
@@ -10,10 +10,7 @@
 #grupi{
     font-style: italic;
     font-size: 50px;
-}
+}*/
 body{
-    background-color:cornsilk;
-}
-button{
-    
+    background-color:#3ACD9E!important;
 }
